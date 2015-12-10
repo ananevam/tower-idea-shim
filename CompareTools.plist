@@ -5,15 +5,15 @@
 <array>
     <dict>
         <key>ApplicationIdentifier</key>
-        <string>com.jetbrains.idea</string>
+        <string>com.jetbrains.intellij</string>
         <key>ApplicationName</key>
-        <string>idea</string>
+        <string>IntelliJ IDEA 15</string>
         <key>DisplayName</key>
         <string>IntelliJ IDEA</string>
         <key>LaunchScript</key>
         <string>idea-tower.sh</string>
         <key>Identifier</key>
-        <string>idea</string>
+        <string>com.jetbrains.intellij</string>
         <key>SupportsMergeTool</key>
         <true/>
         <key>SupportsDiffChangeset</key>
