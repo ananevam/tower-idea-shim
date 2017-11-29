@@ -19,8 +19,8 @@ fi
 MERGING="$4"
 BACKUP="/tmp/$(date +"%Y%d%m%H%M%S")"
 
-APPLICATION_PATH="/Applications/IntelliJ IDEA 15.app"
-CMD="/Applications/IntelliJ IDEA 15.app/Contents/MacOS/idea"
+APPLICATION_PATH="/Applications/IntelliJ IDEA.app"
+CMD="/Applications/IntelliJ IDEA.app/Contents/MacOS/idea"
 
 if [ -n "$MERGING" ]; then
   BASE="$3"
